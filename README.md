@@ -41,16 +41,11 @@ In the <b> data/facebank </b> you will find a trained model named <b> "facebank.
 the <b> facebank </b> folder will look like this :-
 
     facebank/
-                ---> Chandler
-                ---> Joey
-                ---> Monica
-                ---> Phoebe
-                ---> Pias
-                ---> Rachel
-                ---> Raihan
-                ---> Ross
-                ---> Samiur
-                ---> Shakil
+                ---> Hung
+                ---> Huy
+                ---> Thuong
+                ---> Vu
+                ---> Tai
                 ---> facebank.pth
                 ---> names.npy
 
@@ -101,25 +96,7 @@ After executing the script new images for each user in the processed folder will
 
 Copy all the folders of the users under the <b>data/processed</b> folder and paste in the <b>data/facebank</b> folder.
 
-
-Now to train with your dataset, you need to set <b> args.update == True </b> in line 35 of face_verify.py . After training you will get a new facebank.pth and names.npy in your data/facebank folder which will now only holds the weights and labels of your newly trained dataset. Once the training is done you need to reset <b> args.update==False</b>.
-However, if this doesn't work change the code in following manner-
-#### Old Code 
-```python
-    if args.update:
-        targets, names = prepare_facebank(conf, learner.model, mtcnn, tta = args.tta)
-        print('facebank updated')
-    else:
-        targets, names = load_facebank(conf)
-        print('facebank loaded')
-```
-#### New Code 
-Only keep the follwing lines for training, once the training is done just replace it with the old code.
-```python
-        targets, names = prepare_facebank(conf, learner.model, mtcnn, tta = args.tta)
-        print('facebank updated')
-````
-Or you can simply pass a command line arguement such as below if there is new data to train.
+You can simply pass a command line arguement such as below if there is new data to train.
 ```python
    $python face_verify.py -u
 ```

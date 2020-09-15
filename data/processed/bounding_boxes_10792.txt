@@ -1,0 +1,13 @@
+data/processed\Hung Ngo\01ac484a477db823e16c.png 844 312 1264 849
+data/processed\Hung Ngo\0c1988078730786e2121.png 1117 314 1506 881
+data/processed\Hung Ngo\1379144e1b79e427bd68.png 978 304 1480 948
+data/processed\Hung Ngo\149da5c0aaf755a90ce6.png 1198 433 1587 1003
+data/processed\Hung Ngo\3036bf0db03a4f64162b.png 1176 250 1660 887
+data/processed\Hung Ngo\313c80388f0f7051291e.png 1032 248 1543 900
+data/processed\Hung Ngo\5081f6a1f99606c85f87.png 1041 296 1542 971
+data/processed\Hung Ngo\7c4693619c5663083a47.png 992 370 1431 975
+data/processed\Hung Ngo\81061f4f1078ef26b669.png 1228 283 1669 844
+data/processed\Hung Ngo\81f756c659f1a6afffe0.png 944 233 1460 900
+data/processed\Hung Ngo\8c8f42ce4df9b2a7ebe8.png 964 265 1510 975
+data/processed\Hung Ngo\8fe0c4b2cb8534db6d94.png 952 243 1358 817
+data/processed\Hung Ngo\d3d132c43df3c2ad9be2.png 839 262 1290 889

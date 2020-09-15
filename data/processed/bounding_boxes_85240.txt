@@ -1,0 +1,60 @@
+data/processed\hung\2020-06-04-150351.png 245 118 464 386
+data/processed\hung\2020-06-04-150357.png 250 113 472 386
+data/processed\hung\binhthuong_0023.png 413 128 646 419
+data/processed\hung\binhthuong_0026.png 356 124 603 437
+data/processed\hung\binhthuong_0028.png 338 129 584 441
+data/processed\hung\binhthuong_0029.png 339 128 583 439
+data/processed\hung\binhthuong_0033.png 344 129 586 432
+data/processed\hung\binhthuong_0046.png 333 129 591 455
+data/processed\hung\hung_97_0147.png 103 54 217 183
+data/processed\hung\hung_97_0148.png 100 52 218 185
+data/processed\huy\WIN_20200722_19_10_45_Pro.png 533 263 817 625
+data/processed\huy\WIN_20200722_19_10_47_Pro.png 742 300 1031 655
+data/processed\huy\WIN_20200722_19_10_48_Pro.png 409 278 744 618
+data/processed\huy\WIN_20200722_19_10_51_Pro.png 583 366 872 720
+data/processed\huy\WIN_20200722_19_10_54_Pro.png 743 249 1126 720
+data/processed\huy\WIN_20200722_19_10_55_Pro.png 478 214 856 679
+data/processed\huy\WIN_20200722_19_11_01_Pro.png 609 265 979 720
+data/processed\huy\WIN_20200722_19_11_03_Pro.png 805 278 1138 692
+data/processed\huy\WIN_20200722_19_11_07_Pro.png 239 278 597 710
+data/processed\huy\WIN_20200722_19_11_09_Pro.png 515 323 794 670
+data/processed\long\20200720_184335.png 512 919 1577 2325
+data/processed\long\20200720_184410.png 659 836 1415 1804
+data/processed\long\20200720_184415.png 533 860 1281 1844
+data/processed\long\20200720_184422.png 533 746 1301 1780
+data/processed\long\20200720_184426.png 510 1042 1381 2215
+data/processed\long\20200720_184435.png 595 1098 1289 1967
+data/processed\long\20200720_184443.png 410 1065 1168 2036
+data/processed\long\20200720_184448.png 672 1165 1311 2042
+data/processed\long\20200720_184520.png 494 1493 1151 2339
+data/processed\long\20200720_184525.png 310 1456 1000 2346
+data/processed\tai\WIN_20200720_19_18_27_Pro.png 526 167 839 586
+data/processed\tai\WIN_20200720_19_18_29_Pro.png 411 137 696 501
+data/processed\tai\WIN_20200720_19_18_30_Pro.png 466 176 705 456
+data/processed\tai\WIN_20200720_19_18_31_Pro.png 474 228 826 651
+data/processed\tai\WIN_20200720_19_18_32_Pro.png 420 127 709 498
+data/processed\tai\WIN_20200720_19_18_33_Pro.png 635 155 937 526
+data/processed\tai\WIN_20200720_19_18_34_Pro.png 655 210 981 605
+data/processed\tai\WIN_20200720_19_18_36_Pro.png 463 152 740 517
+data/processed\tai\WIN_20200720_19_18_37_Pro (2).png 522 269 814 633
+data/processed\tai\WIN_20200720_19_18_37_Pro.png 550 176 847 583
+data/processed\thuong\Thuong (1).png 611 222 1362 1084
+data/processed\thuong\Thuong (10).png 881 199 1645 1175
+data/processed\thuong\Thuong (2).png 971 334 1664 1205
+data/processed\thuong\Thuong (3).png 843 353 1529 1206
+data/processed\thuong\Thuong (4).png 773 112 1548 1111
+data/processed\thuong\Thuong (5).png 622 273 1321 1027
+data/processed\thuong\Thuong (6).png 1097 263 1681 1130
+data/processed\thuong\Thuong (7).png 911 156 1571 975
+data/processed\thuong\Thuong (8).png 835 177 1468 883
+data/processed\thuong\Thuong (9).png 533 172 1154 1103
+data/processed\vu\WIN_20200720_18_41_08_Pro.png 408 184 621 506
+data/processed\vu\WIN_20200720_18_41_47_Pro.png 420 192 673 515
+data/processed\vu\WIN_20200720_18_41_55_Pro.png 613 157 897 512
+data/processed\vu\WIN_20200720_18_42_03_Pro.png 433 99 722 481
+data/processed\vu\WIN_20200720_18_42_25_Pro.png 573 209 875 624
+data/processed\vu\WIN_20200720_18_44_29_Pro.png 431 207 745 590
+data/processed\vu\WIN_20200720_18_44_37_Pro.png 582 104 911 551
+data/processed\vu\WIN_20200720_18_44_51_Pro.png 488 0 849 374
+data/processed\vu\WIN_20200720_18_44_59_Pro.png 396 0 875 512
+data/processed\vu\WIN_20200720_18_45_05_Pro.png 661 0 1048 516
